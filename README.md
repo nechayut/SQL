@@ -1,1 +1,1 @@
-# miniproject04
+# miniproject04 : SQL workshop
